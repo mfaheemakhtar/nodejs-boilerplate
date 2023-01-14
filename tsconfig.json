@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "lib": ["ES2019", "esnext.asynciterable"],
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitThis": false,
+    "outDir": "build",
+    "paths": {
+      "*": ["node_modules/*", "src/types/*"]
+    },
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "strict": true,
+    "strictFunctionTypes": false,
+    "strictNullChecks": true,
+    "target": "ES2019"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
