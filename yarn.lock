@@ -1059,10 +1059,10 @@ http-errors@2.0.0:
     statuses "2.0.1"
     toidentifier "1.0.1"
 
-http-status@^1.6.2:
-  version "1.6.2"
-  resolved "https://registry.yarnpkg.com/http-status/-/http-status-1.6.2.tgz#6dc05188a9856d67d96e48e8b4fd645c719ce82a"
-  integrity sha512-oUExvfNckrpTpDazph7kNG8sQi5au3BeTo0idaZFXEhTaJKu7GNJCLHI0rYY2wljm548MSTM+Ljj/c6anqu2zQ==
+http-status@^1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/http-status/-/http-status-1.7.4.tgz#7bb7f6b511e0bf5e9e20fb5aa00666f09d1f2615"
+  integrity sha512-c2qSwNtTlHVYAhMj9JpGdyo0No/+DiKXCJ9pHtZ2Yf3QmPnBIytKSRT7BuyIiQ7icXLynavGmxUqkOjSrAuMuA==
 
 iconv-lite@0.4.24:
   version "0.4.24"
